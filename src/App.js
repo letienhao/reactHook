@@ -21,7 +21,7 @@ function App() {
   // }
   return (
     <> 
-      <div style={{fontSize:'100px',textAlign:'center'}}>
+      <div style={{fontSize:'100px',  textAlign:'center'}}>
       <div className='box' >{time} </div>
       
       
